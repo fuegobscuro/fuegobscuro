@@ -11,17 +11,6 @@
   My programming knowledge encompasses JavaScript, Express.js, Sequelize, PostgreSQL, Node.js, React, React Redux, and Tailwind CSS. Furthermore, I am constantly exploring new tools such as Next.js, Mongoose, and NoSQL databases. Beyond programming, I also have expertise and years of experience in Adobe Premiere Pro, Adobe After Effects, and Adobe Photoshop.
 </p>
 
-<h2>Soft Skills:</h2>
-<p>
-  My critical thinking allows me to analyze situations from different angles. I am highly organized and efficient in task planning. Creativity is always present in my work, and I am proactive and curious, always seeking opportunities to learn and grow. Perseverance and tenacity are part of my approach to overcome challenges. I value honest and fluid communication, and I encourage teamwork and effective collaboration.
-</p>
-
-<h2>Contact:</h2>
-<p>
-  📧  <a href="mailto:ignaciofosco@gmail.com">ignaciofosco@gmail.com</a><br>
-</p>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -37,4 +26,15 @@
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
+
+<h2>Soft Skills:</h2>
+<p>
+  My critical thinking allows me to analyze situations from different angles. I am highly organized and efficient in task planning. Creativity is always present in my work, and I am proactive and curious, always seeking opportunities to learn and grow. Perseverance and tenacity are part of my approach to overcome challenges. I value honest and fluid communication, and I encourage teamwork and effective collaboration.
+</p>
+
+<h2>Contact:</h2>
+<p>
+  📧  <a href="mailto:ignaciofosco@gmail.com">ignaciofosco@gmail.com</a><br>
+</p>
 </p>
